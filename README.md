@@ -40,7 +40,8 @@ For a list of free hacking books available for download, go [here](https://githu
     - [Cryptography](#wargame-cryptography)
 - [CTF](#ctf)
     - [Competition](#ctf-competiton)
-    - [Information](#ctf-information)
+    - [General](#ctf-general)
+- [General](#general)
 
 <!-- /MarkdownTOC -->
 
@@ -147,11 +148,11 @@ Tools for network analysis
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man in the Middle SOCKS Proxy for JAVA
 
-### Packet Sniffer
-
 ### Scanner
-
  * [nmap](http://nmap.org/) - Nmap (Network Mapper) is a security scanner
+
+### Wi-Fi
+ * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
 
 
 <a name="forensic" />
@@ -162,24 +163,26 @@ Tools for network analysis
 
 Tools for forensic
 
+### General
 * [Autospy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
 
 ### Binary
-
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
  * [PEview](http://wjradburn.com/software/) - a quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
 
 ### Hex Editor
-
  * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
  * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
 
 ### Others
-
  * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - A small, very fast and powerful text extractor that will be of particular interest to programmers
 
 
 # Cryptography
+
+### Tools
+ * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
+ * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
 
 
 <a name="wargame" />
@@ -229,7 +232,14 @@ Tools for forensic
  * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
 
-<a name="ctf-information" />
-## Information
+<a name="ctf-general" />
+## General
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
+ * [CTF archives](www.shell-storm.org/repo/CTF/)
+
+
+<a name="general" />
+# General
+ * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
+ * [BackTrack](http://www.backtrack-linux.org/)
