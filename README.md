@@ -120,6 +120,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Tools
  * [Autospy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command line digital forensics tools
+ * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - the shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
  * [PEview](http://wjradburn.com/software/) - a quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
  * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
@@ -183,7 +184,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## General
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
- * [CTF archives](http://www.shell-storm.org/repo/CTF/)
+ * [CTF archives (shell-storm)](http://www.shell-storm.org/repo/CTF/)
 
 
 <a name="etc" />
