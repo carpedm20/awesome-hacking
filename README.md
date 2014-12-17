@@ -119,6 +119,8 @@ Tools for reverse engineering
 
 Tools for web hacking
 
+ * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+
 ### Encoding/Decoding
 
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
@@ -132,15 +134,11 @@ Tools for web hacking
 
 Tools for network analysis
 
-### Packet Capture
-
-#### TCP
+### Packet Analyzier
 
  * [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
  * [tcpdump](http://www.tcpdump.org/) - a powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
-
-#### HTTP/HTTPS
  * [Paros](http://sourceforge.net/projects/paros/) - A Java based HTTP/HTTPS proxy for assessing web application vulnerability
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
 
@@ -164,7 +162,8 @@ Tools for network analysis
 Tools for forensic
 
 ### General
-* [Autospy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
+ * [Autospy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
+ * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command line digital forensics tools
 
 ### Binary
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
@@ -212,9 +211,6 @@ Tools for forensic
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
 
-<a name="wargame-general" />
-## general
-
 
 <a name="ctf" />
 # CTF
@@ -239,7 +235,7 @@ Tools for forensic
  * [CTF archives](www.shell-storm.org/repo/CTF/)
 
 
-<a name="general" />
-# General
+<a name="etc" />
+# ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
  * [BackTrack](http://www.backtrack-linux.org/)
