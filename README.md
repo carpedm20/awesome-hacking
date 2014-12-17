@@ -14,34 +14,30 @@ For a list of free hacking books available for download, go [here](https://githu
 - [System](#system)
     - [Tutorials](#system-tutorials)
     - [Tools](#system-tools)
-    - [Wargame](#system-wargame)
+    - [General](#system-general)
 - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#reverse-engineering-tutorials)
     - [Tools](#reverse-engineering-tools)
-    - [Wargame](#reverse-engineering-wargame)
+    - [General](#reverse-engineering-general)
 - [Web](#web)
     - [Tutorials](#web-tutorials)
     - [Tools](#web-tools)
-    - [Wargame](#web-wargame)
 - [Network](#network)
     - [Tutorials](#network-tutorials)
     - [Tools](#network-tools)
-    - [Wargame](#network-wargame)
 - [Forensic](#forensic)
     - [Tutorials](#forensic-tutorials)
     - [Tools](#forensic-tools)
-    - [Wargame](#forensic-wargame)
 - [Cryptography](#cryptography)
     - [Tutorials](#cryptography-tutorials)
     - [Tools](#cryptography-tools)
-    - [Wargame](#cryptography-wargame)
 - [Wargame](#wargame)
-    - [System](#system-wargame)
-    - [Reverse Engineering](#reverse-engineering-wargame)
-    - [Web](#web-wargame)
-    - [Network](#network-wargame)
-    - [Forensic](#forensic-wargame)
-    - [Cryptography](#cryptography-wargame)
+    - [System](#wargame-system)
+    - [Reverse Engineering](#wargame-reverse-engineering)
+    - [Web](#wargame-web)
+    - [Network](#wargame-network)
+    - [Forensic](#wargame-forensic)
+    - [Cryptography](#wargame-cryptography)
 - [CTF](#ctf)
     - [Competition](#ctf-competiton)
     - [Information](#ctf-information)
@@ -67,6 +63,10 @@ Tools for system hacking
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
+
+<a name="system-general" />
+## General
+ * [Exploit database](http://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
 
 
 <a name="reverse-engineering" />
@@ -104,6 +104,10 @@ Tools for reverse engineering
 
 ### General purpose
  * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, Malware and goodware analysis of Android applications
+
+<a name="reverse-engineering-general" />
+## General
+ * [Open Malware](http://www.offensivecomputing.net/)
 
 
 <a name="web" />
@@ -218,6 +222,12 @@ Tools for forensic
  * [CSAW CTF](https://ctf.isis.poly.edu/)
  * [hack.lu CTF](http://hack.lu/)
  * [Pliad CTF](http://www.plaidctf.com/)
+ * [RuCTFe](http://ructf.org/e/)
+ * [Ghost in the Shellcode](http://ghostintheshellcode.com/)
+ * [PHD CTF](http://phdays.com/)
+ * [SECUINSIDE CTF](http://secuinside.com/)
+ * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
+ * [Boston Key Party CTF](http://bostonkeyparty.net/)
 
 <a name="ctf-information" />
 ## Information
