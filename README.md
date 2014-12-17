@@ -132,6 +132,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ### Tools
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
+ * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
 
 <a name="wargame" />
@@ -182,7 +183,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## General
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
- * [CTF archives](www.shell-storm.org/repo/CTF/)
+ * [CTF archives](http://www.shell-storm.org/repo/CTF/)
 
 
 <a name="etc" />
