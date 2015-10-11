@@ -82,6 +82,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
+ * [radare2](https://github.com/radare/radare2) - A portable reversing framework
 
 <a name="reverse-engineering-general" />
 ## General
