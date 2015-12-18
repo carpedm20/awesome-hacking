@@ -2,7 +2,7 @@
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@carpedm20](https://www.twitter.com/carpedm20)
+If you want to contribute to this list (please do), send me a pull request or contact me [@carpedm20](https://twitter.com/carpedm20)
 
 For a list of free hacking books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
@@ -61,7 +61,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 <a name="system-general" />
 ## General
- * [Exploit database](http://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
+ * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
 
 
 <a name="reverse-engineering" />
@@ -76,7 +76,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Tools
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
- * [dex2jar](https://code.google.com/p/dex2jar/) - Tools to work with android .dex and java .class files
+ * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
  * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
  * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, Malware and goodware analysis of Android applications
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler
@@ -110,7 +110,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man in the Middle SOCKS Proxy for JAVA
- * [nmap](http://nmap.org/) - Nmap (Network Mapper) is a security scanner
+ * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
 
 
@@ -159,7 +159,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Web
  * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
  * [Webhacking.kr](http://webhacking.kr/)
- * [0xf.at](http://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
+ * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
 
 
 <a name="wargame-cryptography" />
@@ -178,7 +178,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Pliad CTF](http://www.plaidctf.com/)
  * [RuCTFe](http://ructf.org/e/)
  * [Ghost in the Shellcode](http://ghostintheshellcode.com/)
- * [PHD CTF](http://phdays.com/)
+ * [PHD CTF](http://www.phdays.com/)
  * [SECUINSIDE CTF](http://secuinside.com/)
  * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
@@ -187,7 +187,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## General
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
- * [CTF archives (shell-storm)](http://www.shell-storm.org/repo/CTF/)
+ * [CTF archives (shell-storm)](http://shell-storm.org/repo/CTF/)
 
 
 <a name="etc" />
