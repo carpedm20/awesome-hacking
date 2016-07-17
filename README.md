@@ -85,6 +85,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
  * [radare2](https://github.com/radare/radare2) - A portable reversing framework
  * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+ * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 
 <a name="reverse-engineering-general" />
 ## General
