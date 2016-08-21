@@ -116,6 +116,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man in the Middle SOCKS Proxy for JAVA
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
+ * [Charles Proxy](https://charlesproxy.com) - A cross platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic.
 
 
 <a name="forensic" />
