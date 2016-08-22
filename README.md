@@ -79,8 +79,9 @@ For a list of free hacking books available for download, go [here](https://githu
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
  * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
  * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
+ * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
  * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, Malware and goodware analysis of Android applications
- * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler
+ * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
  * [radare2](https://github.com/radare/radare2) - A portable reversing framework
