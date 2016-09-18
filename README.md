@@ -14,6 +14,7 @@ For a list of free hacking books available for download, go [here](https://githu
 - [System](#system)
     - [Tutorials](#system-tutorials)
     - [Tools](#system-tools)
+    - [Docker](#docker)
     - [General](#system-general)
 - [Reverse Engineering](#reverse-engineering)
     - [Tutorials](#reverse-engineering-tutorials)
@@ -78,11 +79,14 @@ For a list of free hacking books available for download, go [here](https://githu
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
  * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
  * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
+ * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
  * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, Malware and goodware analysis of Android applications
- * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler
+ * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
  * [radare2](https://github.com/radare/radare2) - A portable reversing framework
+ * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+ * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 
 <a name="reverse-engineering-general" />
 ## General
@@ -113,6 +117,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man in the Middle SOCKS Proxy for JAVA
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
+ * [Charles Proxy](https://charlesproxy.com) - A cross platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic.
 
 
 <a name="forensic" />
@@ -137,6 +142,23 @@ For a list of free hacking books available for download, go [here](https://githu
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
+<a name="docker" />
+### Docker Images for Penetration Testing & Security
+ * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
+ * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
+ * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
+ * `docker pull pandrew/metasploit` - [docker-metasploit](https://hub.docker.com/r/pandrew/metasploit/)
+ * `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
+ * `docker pull wpscanteam/vulnerablewordpress` - [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
+ * `docker pull hmlio/vaas-cve-2014-6271` - [Vulnerability as a service: Shellshock](https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
+ * `docker pull hmlio/vaas-cve-2014-0160` - [Vulnerability as a service: Heartbleed](https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
+ * `docker pull opendns/security-ninjas` - [Security Ninjas](https://hub.docker.com/r/opendns/security-ninjas/)
+ * `docker pull usertaken/archlinux-pentest-lxde` - [Arch Linux Penetration Tester](https://hub.docker.com/r/usertaken/archlinux-pentest-lxde/)
+ * `docker pull diogomonica/docker-bench-security` - [Docker Bench for Security](https://hub.docker.com/r/diogomonica/docker-bench-security/)
+ * `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
+ * `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
+ * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
+
 
 <a name="wargame" />
 # Wargame
@@ -155,6 +177,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
  * [CodeEngn](http://codeengn.com/challenges/) - (Korean)
  * [simples.kr](http://simples.kr/) - (Korean)
+ * [Crackmes.de](http://crackmes.de/) - The world first and largest community website for crackmes and reversemes.
 
 <a name="wargame-web" />
 ## Web
@@ -194,4 +217,4 @@ For a list of free hacking books available for download, go [here](https://githu
 <a name="etc" />
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
- * [BackTrack](http://www.backtrack-linux.org/)
+ * [Kali Linux](https://www.kali.org/) - Pen-Testing Linux Distribution
