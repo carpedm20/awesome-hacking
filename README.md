@@ -77,6 +77,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Tools
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
+ * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for Windows
  * [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
  * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
  * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
