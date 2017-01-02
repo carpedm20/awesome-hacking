@@ -40,7 +40,7 @@ For a list of free hacking books available for download, go [here](https://githu
     - [Forensic](#wargame-forensic)
     - [Cryptography](#wargame-cryptography)
 - [CTF](#ctf)
-    - [Competition](#ctf-competiton)
+    - [Competition](#ctf-competition)
     - [General](#ctf-general)
 - [General](#general)
 
@@ -68,7 +68,7 @@ For a list of free hacking books available for download, go [here](https://githu
 <a name="reverse-engineering" />
 # Reverse Engineering
 
-<a name="reverse-engineering-tutorial" />
+<a name="reverse-engineering-tutorials" />
 ## Tutorials
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
@@ -139,6 +139,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 # Cryptography
 
+<a name="cryptography-tools" />
 ### Tools
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
