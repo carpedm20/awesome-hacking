@@ -42,6 +42,8 @@ For a list of free hacking books available for download, go [here](https://githu
 - [CTF](#ctf)
     - [Competition](#ctf-competition)
     - [General](#ctf-general)
+- [OS](#os)
+    - [Online ressources](#os-online-ressources)
 - [ETC](#etc)
 
 <!-- /MarkdownTOC -->
@@ -219,7 +221,15 @@ For a list of free hacking books available for download, go [here](https://githu
  * [CTF archives (shell-storm)](http://shell-storm.org/repo/CTF/)
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
 
+<a name="os" />
+# OS
+
+<a name="os-online-ressources" />
+## Online ressources
+ * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
+ * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
+ * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
 <a name="etc" />
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
- * [Kali Linux](https://www.kali.org/) - Pen-Testing Linux Distribution
