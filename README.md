@@ -48,20 +48,16 @@ For a list of free hacking books available for download, go [here](https://githu
 
 <!-- /MarkdownTOC -->
 
-<a name="system" />
 # System
 
-<a name="system-tutorials" />
 ## Tutorials
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
  * [Exploit Writing Tutorials for Pentesters](http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
 
-<a name="system-tools" />
 ## Tools
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
-<a name="system-docker" />
 ### Docker Images for Penetration Testing & Security
  * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
  * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
@@ -80,20 +76,16 @@ For a list of free hacking books available for download, go [here](https://githu
  * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
  * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
 
-<a name="system-general" />
 ## General
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
 
 
-<a name="reverse-engineering" />
 # Reverse Engineering
 
-<a name="reverse-engineering-tutorials" />
 ## Tutorials
 * [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 
-<a name="reverse-engineering-tools" />
 ## Tools
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
@@ -116,24 +108,19 @@ For a list of free hacking books available for download, go [here](https://githu
 
 
 
-<a name="reverse-engineering-general" />
 ## General
  * [Open Malware](http://www.offensivecomputing.net/)
 
 
-<a name="web" />
 # Web
 
-<a name="web-tools" />
 ## Tools
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
 
 
-<a name="network" />
 # Network
 
-<a name="network-tools" />
 ## Tools
  * [Wireshark](https://www.wireshark.org/) - A free and open-source packet analyzer
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
@@ -149,10 +136,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
 
 
-<a name="forensic" />
 # Forensic
 
-<a name="forensic-tools" />
 ## Tools
  * [Autospy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command line digital forensics tools
@@ -166,17 +151,14 @@ For a list of free hacking books available for download, go [here](https://githu
 
 # Cryptography
 
-<a name="cryptography-tools" />
 ### Tools
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
 
-<a name="wargame" />
 # Wargame
 
-<a name="wargame-system" />
 ## System
  * [OverTheWire - Semtex](http://overthewire.org/wargames/semtex/)
  * [OverTheWire - Vortex](http://overthewire.org/wargames/vortex/)
@@ -185,29 +167,24 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/)
  * [SmashTheStack](http://smashthestack.org/)
 
-<a name="wargame-reverse-engineering" />
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
  * [CodeEngn](http://codeengn.com/challenges/) - (Korean)
  * [simples.kr](http://simples.kr/) - (Korean)
  * [Crackmes.de](http://crackmes.de/) - The world first and largest community website for crackmes and reversemes.
 
-<a name="wargame-web" />
 ## Web
  * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
  * [Webhacking.kr](http://webhacking.kr/)
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
 
 
-<a name="wargame-cryptography" />
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
 
 
-<a name="ctf" />
 # CTF
 
-<a name="ctf-competition" />
 ## Competition
  * [DEF CON](https://legitbs.net/)
  * [CSAW CTF](https://ctf.isis.poly.edu/)
@@ -220,7 +197,6 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
 
-<a name="ctf-general" />
 ## General
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
@@ -229,15 +205,12 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
  * [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
-<a name="os" />
 # OS
 
-<a name="os-online-ressources" />
 ## Online resources
  * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 
-<a name="etc" />
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
