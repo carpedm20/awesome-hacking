@@ -87,7 +87,7 @@ For a list of free hacking books available for download, go [here](https://githu
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 
 ## Tools
- * [nudge4j] (https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
+ * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
  * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for Windows
