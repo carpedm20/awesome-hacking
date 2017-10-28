@@ -136,6 +136,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
  * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+ * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and maniputalion
 
 
 # Forensic
