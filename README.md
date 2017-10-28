@@ -26,6 +26,7 @@ For a list of free hacking books available for download, go [here](https://githu
 - [Network](#network)
     - [Tutorials](#network-tutorials)
     - [Tools](#network-tools)
+- [BugBounty](#bugbounty)
 - [Forensic](#forensic)
     - [Tutorials](#forensic-tutorials)
     - [Tools](#forensic-tools)
@@ -184,6 +185,8 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
 
+## Bug bounty
+  * [Awsome bug bounty resourses by Edoverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 # CTF
 
