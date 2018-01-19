@@ -44,7 +44,7 @@ For a list of free hacking books available for download, go [here](https://githu
     - [Competition](#ctf-competition)
     - [General](#ctf-general)
 - [OS](#os)
-    - [Online resources](#os-online-resources)
+    - [Online resources](#online-resources)
 - [ETC](#etc)
 
 <!-- /MarkdownTOC -->
