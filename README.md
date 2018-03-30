@@ -181,6 +181,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Web
  * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
+ * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
  * [Webhacking.kr](http://webhacking.kr/)
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
 
