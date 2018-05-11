@@ -139,7 +139,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
  * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
- * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and maniputalion
+ * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation
 
 
 # Forensic
