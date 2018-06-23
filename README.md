@@ -207,6 +207,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [SECUINSIDE CTF](http://secuinside.com/)
  * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
+ * [ZeroDays CTF](https://zerodays.ie/)
+ * [Insomni’hack](https://insomnihack.ch/)
 
 ## General
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
