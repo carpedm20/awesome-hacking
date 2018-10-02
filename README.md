@@ -12,37 +12,31 @@ For a list of free hacking books available for download, go [here](https://githu
 <!-- MarkdownTOC depth=4 -->
 
 - [System](#system)
-    - [Tutorials](#system-tutorials)
-    - [Tools](#system-tools)
-    - [Docker](#system-docker)
-    - [General](#system-general)
+    - [Tutorials](#tutorials)
+    - [Tools](#tools)
+    - [Docker](#docker-images-for-penetration-testing--security)
+    - [General](#general)
 - [Reverse Engineering](#reverse-engineering)
-    - [Tutorials](#reverse-engineering-tutorials)
-    - [Tools](#reverse-engineering-tools)
-    - [General](#reverse-engineering-general)
+    - [Tutorials](#tutorials-1)
+    - [Tools](#tools-1)
+    - [General](#general-1)
 - [Web](#web)
-    - [Tutorials](#web-tutorials)
-    - [Tools](#web-tools)
+    - [Tools](#tools-2)
 - [Network](#network)
-    - [Tutorials](#network-tutorials)
-    - [Tools](#network-tools)
-- [BugBounty](#bugbounty)
+    - [Tools](#tools-3)
 - [Forensic](#forensic)
-    - [Tutorials](#forensic-tutorials)
-    - [Tools](#forensic-tools)
+    - [Tools](#tools-4)
 - [Cryptography](#cryptography)
-    - [Tutorials](#cryptography-tutorials)
-    - [Tools](#cryptography-tools)
+    - [Tools](#tools-5)
 - [Wargame](#wargame)
-    - [System](#wargame-system)
-    - [Reverse Engineering](#wargame-reverse-engineering)
-    - [Web](#wargame-web)
-    - [Network](#wargame-network)
-    - [Forensic](#wargame-forensic)
-    - [Cryptography](#wargame-cryptography)
+    - [System](#system-1)
+    - [Reverse Engineering](#reverse-engineering-1)
+    - [Web](#web-1)
+    - [Cryptography](#cryptography-1)
+    - [Bug bounty](#bug-bounty)
 - [CTF](#ctf)
-    - [Competition](#ctf-competition)
-    - [General](#ctf-general)
+    - [Competition](#competition)
+    - [General](#general-2)
 - [OS](#os)
     - [Online resources](#online-resources)
 - [ETC](#etc)
@@ -99,9 +93,9 @@ For a list of free hacking books available for download, go [here](https://githu
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [ILSpy](https://github.com/icsharpcode/ILSpy/) - an open-source .NET assembly browser and decompiler
- * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
- * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker. 
- * [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
+ * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger
+ * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
+ * [antinet](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
  * [radare2](https://github.com/radare/radare2) - A portable reversing framework
  * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
@@ -118,8 +112,10 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+ * [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
-
+ * [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
+ * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
 
 # Network
 
@@ -136,12 +132,12 @@ For a list of free hacking books available for download, go [here](https://githu
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
- * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
+ * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
  * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
  * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation
- * [Amass](https://github.com/caffix/amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+ * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 
 
 # Forensic
@@ -209,6 +205,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
+ * [Picp CTF](https://picoctf.com/) 
+ * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
 
 ## General
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
