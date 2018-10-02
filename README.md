@@ -201,6 +201,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [SECUINSIDE CTF](http://secuinside.com/)
  * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
+ * [Picp CTF](https://picoctf.com/) 
+ * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
 
 ## General
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
