@@ -182,7 +182,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
  * [Webhacking.kr](http://webhacking.kr/)
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
-
+ * [Gruyere](https://google-gruyere.appspot.com/)
+ * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
 
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
