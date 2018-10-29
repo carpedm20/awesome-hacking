@@ -191,6 +191,11 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  
+## Bug bounty -  Earn Some Money  
+  * [Bugcrowd](https://www.bugcrowd.com/)
+  * [Hackerone](https://www.hackerone.com/start-hacking)
+  
 
 # CTF
 
