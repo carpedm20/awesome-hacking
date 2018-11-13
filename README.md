@@ -117,6 +117,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
  * [VHostScan](https://github.com/codingo/VHostScan) - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
  * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
+ * [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
 
 # Network
 
@@ -139,6 +140,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
  * [Scapy](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and manipulation
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
+ * [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
 
 
 # Forensic
