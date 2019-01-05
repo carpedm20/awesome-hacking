@@ -228,3 +228,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
+
+## Code examples for Penetration Testing
+
+* [goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
