@@ -11,34 +11,37 @@ For a list of free hacking books available for download, go [here](https://githu
 
 <!-- MarkdownTOC depth=4 -->
 
+- [Awesome Hacking ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-hacking-awesomehttpsgithubcomsindresorhusawesome)
+  - [Table of Contents](#table-of-contents)
 - [System](#system)
-    - [Tutorials](#tutorials)
-    - [Tools](#tools)
-    - [Docker](#docker-images-for-penetration-testing--security)
-    - [General](#general)
+  - [Tutorials](#tutorials)
+  - [Tools](#tools)
+    - [Docker Images for Penetration Testing & Security](#docker-images-for-penetration-testing--security)
+  - [General](#general)
 - [Reverse Engineering](#reverse-engineering)
-    - [Tutorials](#tutorials-1)
-    - [Tools](#tools-1)
-    - [General](#general-1)
+  - [Tutorials](#tutorials-1)
+  - [Tools](#tools-1)
+  - [General](#general-1)
 - [Web](#web)
-    - [Tools](#tools-2)
+  - [Tools](#tools-2)
 - [Network](#network)
-    - [Tools](#tools-3)
+  - [Tools](#tools-3)
 - [Forensic](#forensic)
-    - [Tools](#tools-4)
+  - [Tools](#tools-4)
 - [Cryptography](#cryptography)
     - [Tools](#tools-5)
 - [Wargame](#wargame)
-    - [System](#system-1)
-    - [Reverse Engineering](#reverse-engineering-1)
-    - [Web](#web-1)
-    - [Cryptography](#cryptography-1)
-    - [Bug bounty](#bug-bounty)
+  - [System](#system-1)
+  - [Reverse Engineering](#reverse-engineering-1)
+  - [Web](#web-1)
+  - [Serverless](#serverless)
+  - [Cryptography](#cryptography-1)
+  - [Bug bounty](#bug-bounty)
 - [CTF](#ctf)
-    - [Competition](#competition)
-    - [General](#general-2)
+  - [Competition](#competition)
+  - [General](#general-2)
 - [OS](#os)
-    - [Online resources](#online-resources)
+  - [Online resources](#online-resources)
 - [ETC](#etc)
 
 <!-- /MarkdownTOC -->
@@ -185,6 +188,10 @@ For a list of free hacking books available for download, go [here](https://githu
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
+
+## Serverless
+* [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP. You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue.
+* [LambdaShell](http://www.lambdashell.com/) - This is a simple AWS lambda function that does a straight exec. Essentially giving you a shell directly in my AWS infrastructure to just run your commands. A security teams worst nightmare.Do whatever you want. Ultimate goal: take over the account, escalate privs or find some sensitive info.
 
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
