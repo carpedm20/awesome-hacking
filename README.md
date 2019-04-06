@@ -207,7 +207,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
- * [Picp CTF](https://picoctf.com/) 
+ * [Pico CTF](https://picoctf.com/) 
  * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
 
 ## General
