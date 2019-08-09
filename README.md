@@ -283,6 +283,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## tools
 * [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
+* [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
