@@ -201,6 +201,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
+ * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
 
 # Cryptography
 
