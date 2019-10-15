@@ -262,6 +262,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Insomni’hack](https://insomnihack.ch/)
  * [Pico CTF](https://picoctf.com/) 
  * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
+ * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
@@ -283,6 +284,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## tools
 * [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
+* [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
