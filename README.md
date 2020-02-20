@@ -286,3 +286,4 @@ For a list of free hacking books available for download, go [here](https://githu
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
+ * [Hopper's Roppers Intro to Security](https://hoppersroppers.github.io/course.html) - Free self-paced course that teaches foundational knowledge and how to find and use resources to succeed. Meant to prepare for students for whatever comes next. 
