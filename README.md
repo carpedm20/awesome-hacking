@@ -271,6 +271,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+ * [Hopper's Roppers Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches the fundamentals of forensics, cryptography, and web-exploitation required to be successful in Capture the Flag competitions.
 
 # OS
 
@@ -286,3 +287,4 @@ For a list of free hacking books available for download, go [here](https://githu
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
+ * [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) - Four free courses designed to teach beginners the fundamentals of computing, security, and CTFs. 
