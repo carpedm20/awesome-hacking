@@ -99,7 +99,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ### Decompilers
 *  JVM-based languages
   * [Krakatau](https://github.com/Storyyeller/Krakatau) - the best decompiler I have used. Is able to decompile apps written in Scala and Kotlin into Java code. JD-GUI and Luyten have failed to do it fully.
-  * [JD-GUI](https://github.com/java-decompiler/jd-gui) 
+  * [JD-GUI](https://github.com/java-decompiler/jd-gui)
   * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
     * [Luyten](https://github.com/deathmarine/Luyten) - one of the best, though a bit slow, hangs on some binaries and not very well maintained.
   * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
@@ -116,6 +116,10 @@ For a list of free hacking books available for download, go [here](https://githu
   * [retdec](https://github.com/avast-tl/retdec)
   * [snowman](https://github.com/yegord/snowman)
   * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
+
+* Python
+  * [uncompyle6](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
+
 
 ### Deobfuscators
  * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
@@ -145,7 +149,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [HxD](http://mh-nexus.de/en/hxd/) - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size
  * [WinHex](http://www.winhex.com/winhex/) - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security
 * [wxHexEditor](https://github.com/EUA/wxHexEditor)
-* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) - 
+* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) -
 
 #### Other
  * [Binwalk](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
@@ -248,11 +252,11 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
-  
-## Bug bounty -  Earn Some Money  
+
+## Bug bounty -  Earn Some Money
   * [Bugcrowd](https://www.bugcrowd.com/)
   * [Hackerone](https://www.hackerone.com/start-hacking)
-  
+
 
 # CTF
 
@@ -269,7 +273,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
- * [Pico CTF](https://picoctf.com/) 
+ * [Pico CTF](https://picoctf.com/)
  * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
 
 ## General
