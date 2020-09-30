@@ -282,7 +282,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
  * [Pico CTF](https://picoctf.com/)
- * [prompt(1) to win](http://prompt.ml/) - XSS Challeges
+ * [prompt(1) to win](http://prompt.ml/) - XSS Challenges
  * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
