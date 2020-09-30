@@ -203,6 +203,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Scapy](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
  * [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
+ * [RustScan][https://github.com/rustscan/rustscan] - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
 
 # Forensic
@@ -220,6 +221,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
+ * [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
 
 # Wargame
