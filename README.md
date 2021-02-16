@@ -257,6 +257,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
+ * [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
 
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
