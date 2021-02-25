@@ -91,6 +91,7 @@ For a list of free hacking books available for download, go [here](https://githu
 * [Begin RE: A Reverse Engineering Tutorial Workshop](https://www.begin.re/the-workshop)
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 * [Malware Unicorn Reverse Engineering Tutorial](https://malwareunicorn.org/workshops/re101.html#0)
+* [Lena151: Reversing With Lena](https://archive.org/details/lena151)
 
 ## Tools
 ### Disassemblers and debuggers
