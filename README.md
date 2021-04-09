@@ -50,7 +50,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tutorials
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
- * [Exploit Writing Tutorials for Pentesters](http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
+ * [Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
  * [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
  * [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
