@@ -4,6 +4,8 @@ A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https:
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@carpedm20](https://twitter.com/carpedm20)
 
+This is an amazing tool which you want to learn about
+
 For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 
