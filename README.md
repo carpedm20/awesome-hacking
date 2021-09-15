@@ -49,6 +49,8 @@ For a list of free hacking books available for download, go [here](https://githu
 # System
 
 ## Tutorials
+ * [Roppers Computing Fundamentals](https://hoppersroppers.org/course.html)
+    * Free, self-paced curriculum that builds a base of knowledge in computers and networking. Intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/).
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
  * [Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
@@ -298,7 +300,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
- * [Hopper's Roppers Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches the fundamentals of forensics, cryptography, and web-exploitation required to be successful in Capture the Flag competitions.
+ * [Roppers CTF Fundamentals Course](https://www.hoppersroppers.org/courseCTF.html) - Free course designed to get a student crushing CTFs as quickly as possible. Teaches the mentality and skills required for crypto, forensics, and more. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/).
 
 # OS
 
@@ -316,4 +318,4 @@ For a list of free hacking books available for download, go [here](https://githu
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
- * [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) - Four free courses designed to teach beginners the fundamentals of computing, security, and CTFs. 
+ * [Roppers Security Fundamentals](https://www.hoppersroppers.org/courseSecurity.html) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
