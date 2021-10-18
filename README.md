@@ -189,6 +189,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [PhpSploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
  * [Git-Scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
  * [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
+ * [Shodan](https://www.shodan.io/) - A web-crawling search engine that lets users search for various types of servers connected to the internet.
+ * [masscan](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
@@ -226,6 +228,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
  * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
+ * [CyLR](https://github.com/orlikoski/CyLR) - NTFS forensic image collector 
 
 # Cryptography
 
