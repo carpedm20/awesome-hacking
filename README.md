@@ -192,6 +192,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
+ * [Cliws](https://github.com/b23r0/Cliws) — A bind/reverse PTY shell with Windows&Linux support.
 
 
 # Network
