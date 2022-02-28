@@ -293,6 +293,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
+
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
@@ -305,9 +306,12 @@ For a list of free hacking books available for download, go [here](https://githu
 # OS
 
 ## Online resources
- * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
+
+ * [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+
 # Post exploitation
 
 ## tools
@@ -317,5 +321,7 @@ For a list of free hacking books available for download, go [here](https://githu
 * [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 # ETC
+
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
  * [Roppers Security Fundamentals](https://www.hoppersroppers.org/courseSecurity.html) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
+ * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. ([Source](https://gitlab.com/rawsec/rawsec-cybersecurity-list))
