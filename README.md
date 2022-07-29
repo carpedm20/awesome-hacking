@@ -233,6 +233,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ### Tools
  * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
+ * [Hashcat](https://hashcat.net/hashcat/) - A password cracking tool
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
  * [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
