@@ -190,6 +190,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Git-Scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
  * [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
  * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
+ * [SCORES](https://riskscore.info/) - SCORES (Seconize Contextual Risk Enumeration System) is a free risk scoring tool for vulnerabilities.
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
