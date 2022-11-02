@@ -62,6 +62,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
  * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
+ * [recon](https://github.com/rusty-ferris-club/recon) - a fast Rust based CLI that uses SQL to query over files, code, or malware with content classification and processing for security experts
+
 
 ### Docker Images for Penetration Testing & Security
  * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
