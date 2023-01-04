@@ -81,6 +81,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * `docker pull vulnerables/web-owasp-nodegoat` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
  * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
  * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
+ * `docker pull jeroenwillemsen/wrongsecrets:latest-no-vault` - [OWASP WrongSecrets](https://github.com/OWASP/wrongsecrets)
  * `docker pull phocean/msf` - [Docker Metasploit](https://hub.docker.com/r/phocean/msf/)
 
 ## General
