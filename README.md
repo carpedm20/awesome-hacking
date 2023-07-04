@@ -64,7 +64,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
 
 ### Docker Images for Penetration Testing & Security
- * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
+ * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-last-release/)
  * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
  * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
  * `docker pull metasploitframework/metasploit-framework
@@ -191,6 +191,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
  * [Shodan](https://www.shodan.io/) - A web-crawling search engine that lets users search for various types of servers connected to the internet.
  * [masscan](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
+ * [Keyscope](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
+ * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
@@ -229,6 +231,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
  * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
  * [CyLR](https://github.com/orlikoski/CyLR) - NTFS forensic image collector 
+ * [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
 
 # Cryptography
 
@@ -264,6 +267,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
+ * [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
 
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
@@ -296,6 +300,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
+
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
@@ -308,9 +313,12 @@ For a list of free hacking books available for download, go [here](https://githu
 # OS
 
 ## Online resources
- * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
+
+ * [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+
 # Post exploitation
 
 ## tools
@@ -320,5 +328,7 @@ For a list of free hacking books available for download, go [here](https://githu
 * [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 # ETC
+
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
  * [Roppers Security Fundamentals](https://www.hoppersroppers.org/courseSecurity.html) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
+ * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. ([Source](https://gitlab.com/rawsec/rawsec-cybersecurity-list))
