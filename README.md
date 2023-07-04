@@ -189,6 +189,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [PhpSploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
  * [Git-Scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
  * [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
+ * [Shodan](https://www.shodan.io/) - A web-crawling search engine that lets users search for various types of servers connected to the internet.
+ * [masscan](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
  * [Keyscope](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
  * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
 
@@ -228,6 +230,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
  * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
+ * [CyLR](https://github.com/orlikoski/CyLR) - NTFS forensic image collector 
  * [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
 
 # Cryptography
