@@ -1,3 +1,4 @@
 - How to Investigate Like a Rockstar - Live a real crisis to master the secrets of forensic analysis, Sparc Flow, 2018
 - How to Hack Like a Legend - A hacker’s tale breaking into a secretive offshore company, Sparc Flow, 2018  
 - How to Hack Like a Pornstar - A step by step process for breaking into a BANK, Sparc Flow, 2017  
+- [The Cyberclopaedia](https://cr0mll.github.io/cyberclopaedia/) - The open-source encyclopedia of cybersecurity
