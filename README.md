@@ -91,6 +91,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tutorials
 * [Begin RE: A Reverse Engineering Tutorial Workshop](https://www.begin.re/the-workshop)
+* [pwn.guide: Mostly web based hacking tutorials, free and paid](https://pwn.guide)
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 * [Malware Unicorn Reverse Engineering Tutorial](https://malwareunicorn.org/workshops/re101.html#0)
 * [Lena151: Reversing With Lena](https://archive.org/details/lena151)
@@ -263,7 +264,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Web
  * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
  * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
- * [Webhacking.kr](http://webhacking.kr/)
+ * [Webhacking.kr](http://webhacking.kr/) - Korean cyber-security challenge in which the competitors exploit or defend vulnerability in web application.
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
  * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
  * [Gruyere](https://google-gruyere.appspot.com/)
