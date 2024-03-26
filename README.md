@@ -227,6 +227,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
+ * [HTTP Echo Server](https://beeceptor.com/resources/http-echo/?ref=awesome-hacking) - Emits back the HTTP request content for debugging. E.g. use this to find the client's IP address, HTTP headers transmitted, and review the parsed request payload. 
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
