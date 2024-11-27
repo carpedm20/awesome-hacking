@@ -269,6 +269,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
  * [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
+ * [CyberPython](https://pythoncyber.go.ro) - Hands-on cyber security training with challenges and making your own research with little guidance.
 
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
