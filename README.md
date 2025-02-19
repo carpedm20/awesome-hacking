@@ -193,6 +193,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [masscan](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
  * [Keyscope](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
  * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
+ * [CORS Tester](https://cors-error.dev/cors-tester/) - An online tool to check if an API is CORS-enabled for a given domain and identify gaps.
+
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
