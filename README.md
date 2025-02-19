@@ -1,11 +1,10 @@
-# Awesome Hacking -An Amazing Project [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Hacking - An Amazing Project [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
 
 If you want to contribute to this list (please do), send me a pull request!
 
 For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
-
 
 ## Table of Contents
 
@@ -49,6 +48,15 @@ For a list of free hacking books available for download, go [here](https://githu
 # System
 
 ## Tutorials
+
+ *  [Roppers Computing Fundamentals](https://www.roppers.org/courses/fundamentals) - Free, self-paced curriculum that builds a base of knowledge in computers and networking.
+ *  [Corelan Team's Exploit Writing Tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Exploit writing tutorial focusing on stack-based overflows.
+ * [Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/) - Exploit writing tutorials for penetration testers.
+ *  [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp) - A series of lectures/tutorial on Linux binary exploitation. Uses `vagrant`.
+ *  [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) - Shell Tools and Scripting (Lecture videos from the class offered during MIT's Independent Activities Period in 2020.)
+ *  [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/) - A course on the command-line shell.
+
+
  * [Roppers Computing Fundamentals](https://www.roppers.org/courses/fundamentals)
     * Free, self-paced curriculum that builds a base of knowledge in computers and networking. Intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/).
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
@@ -226,80 +234,87 @@ For a list of free hacking books available for download, go [here](https://githu
 # Forensic
 
 ## Tools
- * [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
- * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
- * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
- * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
- * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
- * [CyLR](https://github.com/orlikoski/CyLR) - NTFS forensic image collector 
- * [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
+
+*   [Autopsy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to The Sleuth Kit.
+*   [HTTP Echo Server](https://beeceptor.com/resources/http-echo/?ref=awesome-hacking) - Emits back the HTTP request content for debugging.
+*   [The Sleuth Kit](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools.
+*   [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - Digital investigations products by Guidance Software.
+*   [Malzilla](http://malzilla.sourceforge.net/) - A malware hunting tool.
+*   [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation.
+*   [CyLR](https://github.com/orlikoski/CyLR) - An NTFS forensic image collector.
+*   [CAINE](https://www.caine-live.net/) - A Ubuntu-based app offering a complete forensic environment with a graphical interface.
 
 # Cryptography
 
 ### Tools
- * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
- * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
- * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
- * [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
-
+ * [xortool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR ciphers.
+ * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker.
+ * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program.
+ * [Ciphey](https://github.com/ciphey/ciphey) - An automated decryption tool using artificial intelligence & natural language processing.
 
 # Wargame
 
 ## System
- * [OverTheWire - Semtex](http://overthewire.org/wargames/semtex/)
- * [OverTheWire - Vortex](http://overthewire.org/wargames/vortex/)
- * [OverTheWire - Drifter](http://overthewire.org/wargames/drifter/)
- * [pwnable.kr](http://pwnable.kr/) - Provide various pwn challenges regarding system security
- * [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/)
- * [SmashTheStack](http://smashthestack.org/)
- * [HackingLab](https://www.hacking-lab.com/) 
+
+*   [OverTheWire - Semtex](http://overthewire.org/wargames/semtex/) - A system security wargame.
+*   [OverTheWire - Vortex](http://overthewire.org/wargames/vortex/) - A system security wargame.
+*   [OverTheWire - Drifter](http://overthewire.org/wargames/drifter/) - A system security wargame.
+*   [pwnable.kr](http://pwnable.kr/) - Pwn challenges regarding system security.
+*   [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/) - Exploit exercises focusing on system security.
+*   [SmashTheStack](http://smashthestack.org/) - A wargame focusing on stack smashing and other exploits.
+*   [HackingLab](https://www.hacking-lab.com/) - A platform for various hacking challenges.
 
 ## Reverse Engineering
- * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
- * [CodeEngn](http://codeengn.com/challenges/) - (Korean)
- * [simples.kr](http://simples.kr/) - (Korean)
- * [Crackmes.de](http://crackmes.de/) - The world first and largest community website for crackmes and reversemes.
+
+*   [Reversing.kr](http://www.reversing.kr/) - A site for cracking and reverse code engineering challenges.
+*   [CodeEngn](http://codeengn.com/challenges/) - (Korean) Reverse engineering challenges.
+*   [simples.kr](http://simples.kr/) - (Korean) Reverse engineering challenges.
+*   [Crackmes.de](http://crackmes.de/) - A community website for crackmes and reversemes.
 
 ## Web
- * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
- * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
- * [Webhacking.kr](http://webhacking.kr/)
- * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
- * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
- * [Gruyere](https://google-gruyere.appspot.com/)
- * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
- * [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
+
+*   [Hack This Site!](https://www.hackthissite.org/) - A free training ground for hackers to test and expand their skills.
+*   [Hack The Box](https://www.hackthebox.eu) - A platform for penetration testing on various systems.
+*   [Webhacking.kr](http://webhacking.kr/) - A website for web hacking challenges.
+*   [0xf.at](https://0xf.at/) - A website with password-riddles (hackits).
+*   [fuzzy.land](https://fuzzy.land/) - A website with challenges from CTFs.
+*   [Gruyere](https://google-gruyere.appspot.com/) - A web application with known vulnerabilities.
+*   [OWASP Vulnerable Web Applications Directory Project](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) - A directory of vulnerable web applications.
+*   [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
 
 ## Cryptography
- * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
 
-## Bug bounty
-  * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
+*   [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/) - A cryptography wargame.
 
-## Bug bounty -  Earn Some Money
-  * [Bugcrowd](https://www.bugcrowd.com/)
-  * [Hackerone](https://www.hackerone.com/start-hacking)
-  * [Intigriti](https://www.intigriti.com/) Europe's #1 ethical hacking and bug bounty program.
+## Bug Bounty
 
+*   [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet) - A collection of bug bounty resources.
+
+## Bug Bounty - Earn Some Money
+
+*   [Bugcrowd](https://www.bugcrowd.com/) - A bug bounty platform.
+*   [Hackerone](https://www.hackerone.com/start-hacking) - A bug bounty platform.
+*   [Intigriti](https://www.intigriti.com/) - Europe's #1 ethical hacking and bug bounty program.
 
 # CTF
 
-## Competition
- * [DEF CON](https://legitbs.net/)
- * [CSAW CTF](https://ctf.isis.poly.edu/)
- * [hack.lu CTF](http://hack.lu/)
- * [Pliad CTF](http://www.plaidctf.com/)
- * [RuCTFe](http://ructf.org/e/)
- * [Ghost in the Shellcode](http://ghostintheshellcode.com/)
- * [PHD CTF](http://www.phdays.com/)
- * [SECUINSIDE CTF](http://secuinside.com/)
- * [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng)
- * [Boston Key Party CTF](http://bostonkeyparty.net/)
- * [ZeroDays CTF](https://zerodays.ie/)
- * [Insomni’hack](https://insomnihack.ch/)
- * [Pico CTF](https://picoctf.com/)
- * [prompt(1) to win](http://prompt.ml/) - XSS Challenges
- * [HackTheBox](https://www.hackthebox.eu/)
+## Competitions
+
+*   [DEF CON](https://legitbs.net/) - A major hacking convention with a CTF competition.
+*   [CSAW CTF](https://ctf.isis.poly.edu/) - Collegiate Cyber Defense Competition.
+*   [hack.lu CTF](http://hack.lu/) - A European hacking conference with a CTF.
+*   [Plaid CTF](http://www.plaidctf.com/) - A CTF competition organized by Carnegie Mellon University.
+*   [RuCTFe](http://ructf.org/e/) - A Russian CTF competition.
+*   [Ghost in the Shellcode](http://ghostintheshellcode.com/) - A CTF competition.
+*   [PHDays CTF](http://www.phdays.com/) - A Russian information security conference with a CTF.
+*   [SECUINSIDE CTF](http://secuinside.com/) - A Korean CTF competition.
+*   [Codegate CTF](http://ctf.codegate.org/html/Main.html?lang=eng) - A Korean CTF competition.
+*   [Boston Key Party CTF](http://bostonkeyparty.net/) - A CTF competition.
+*   [ZeroDays CTF](https://zerodays.ie/) - An Irish CTF competition.
+*   [Insomni’hack](https://insomnihack.ch/) - A Swiss security conference with a CTF.
+*   [Pico CTF](https://picoctf.com/) - A CTF for middle and high school students.
+*   [prompt(1) to win](http://prompt.ml/) - XSS challenges.
+*   [HackTheBox](https://www.hackthebox.eu/) - A platform with various CTF-style challenges and labs.
 
 ## General
 
@@ -323,11 +338,12 @@ For a list of free hacking books available for download, go [here](https://githu
 
 # Post exploitation
 
-## tools
-* [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
-* [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
-* [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
-* [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
+## Tools
+
+ * [Empire](https://github.com/EmpireProject/Empire) - A post-exploitation framework for PowerShell and Python.
+ * [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post-exploitation tool that uses IronPython to bypass PowerShell restrictions.
+ * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post-exploitation framework.
+ * [Ebowla](https://github.com/Genetic-Malware/Ebowla) - A framework for creating environment-keyed payloads.
 
 # ETC
 
