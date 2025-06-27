@@ -193,6 +193,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [masscan](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
  * [Keyscope](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
  * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
+ * [maxx](https://github.com/dusbot/maxx/) - An all-in-one network scanning tool that combines port scanning, protocol and fingerprint recognition, brute-force cracking, as well as vulnerability detection and exploitation functionalities.
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
