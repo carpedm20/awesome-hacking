@@ -202,6 +202,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
+ * [ScanEye]([https://github.com](https://github.com/riz4d/ScanEye) - A stealthy network scanner that detects live CCTV streams using protocol-specific fingerprinting.
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
  * [pig](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
  * [findsubdomains](https://findsubdomains.com) - really fast subdomains scanning service that has much greater opportunities than simple subs finder(works using OSINT).
