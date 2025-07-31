@@ -252,7 +252,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [pwnable.kr](http://pwnable.kr/) - Provide various pwn challenges regarding system security
  * [Exploit Exercises - Nebula](https://exploit-exercises.com/nebula/)
  * [SmashTheStack](http://smashthestack.org/)
- * [HackingLab](https://www.hacking-lab.com/) 
+ * [HackingLab](https://www.hacking-lab.com/)
+ * [Wargames BataMladen](https://wargames.batamladen.com/)
 
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
