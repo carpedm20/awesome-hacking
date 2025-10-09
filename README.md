@@ -152,6 +152,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [USBPcap](https://github.com/desowin/usbpcap) - USB capture for Windows.
  * [dynStruct](https://github.com/ampotos/dynStruct) - structures recovery via dynamic instrumentation.
  * [drltrace](https://github.com/mxmssh/drltrace) - shared library calls tracing.
+ * [Frida](https://frida.re/) - Dynamic instrumentation toolkit for developers, reverse engineers, and security researchers.
 
 ### Binary files examination and editing
 
