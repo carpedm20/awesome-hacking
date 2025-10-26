@@ -56,6 +56,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
  * [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
  * [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
+* [Live Overflow's Binary Exploitation Playlist](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+    * Excellent YouTube series covering binary exploitation, reverse engineering, and various system security topics
 
 
 ## Tools
