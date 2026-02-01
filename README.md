@@ -318,6 +318,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
  * [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
+ * [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Debian-based security distro for hardware hacking with Flipper Zero, WiFi Pineapple, USB Rubber Ducky integration.
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
 
 
