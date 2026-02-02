@@ -61,6 +61,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Tools
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+ * [n01d Machine](https://github.com/bad-antics/n01d-machine) - Secure cross-platform VM manager with sandboxing, Tor routing, VPN support, and security profiles for isolated pentesting environments.
  * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
 
 ### Docker Images for Penetration Testing & Security
