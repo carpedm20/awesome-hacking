@@ -233,6 +233,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
  * [CyLR](https://github.com/orlikoski/CyLR) - NTFS forensic image collector 
  * [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
+ * [n01d-forge](https://github.com/bad-antics/n01d-forge) - Native Rust image burner with LUKS/VeraCrypt encryption support for creating secure forensic images and bootable drives.
+ * [n01d-machine](https://github.com/bad-antics/n01d-machine) - Secure VM manager with Tor/VPN integration and network isolation for analyzing malware and conducting anonymous investigations.
 
 # Cryptography
 
