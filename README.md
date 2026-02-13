@@ -193,6 +193,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [masscan](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
  * [Keyscope](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
  * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
+ * [WAFtester](https://github.com/waftester/waftester) - WAF security testing CLI that fingerprints 197+ WAF vendors, benchmarks detection rates, and automates bypass discovery with 70+ evasion techniques.
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
