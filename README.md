@@ -7,6 +7,7 @@ If you want to contribute to this list (please do), send me a pull request!
 For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security scanning, threat analysis, and automated vulnerability assessment. MIT licensed.
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
