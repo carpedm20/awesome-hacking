@@ -324,6 +324,7 @@ For a list of free hacking books available for download, go [here](https://githu
 # Post exploitation
 
 ## tools
+* [CORTEX](https://fatcrapinmybutt.github.io/cortex-site/) - Offline desktop intelligence platform with 55 domain packs (OSINT, cyber, fraud, and more), entity extraction, and interactive D3.js graph visualization. [Free OSINT pack](https://github.com/fatcrapinmybutt/cortex-osint).
 * [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
