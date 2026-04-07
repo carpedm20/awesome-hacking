@@ -179,6 +179,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [Spyse](https://spyse.com/) -  Data gathering service that collects web info using OSINT. Provided info: IPv4 hosts, domains/whois, ports/banners/protocols, technologies, OS, AS, maintains huge SSL/TLS DB, and more... All the data is stored in its own database allowing get the data without scanning.
+ * [NOX](https://github.com/nox-project/nox-framework) - Async Python framework for recursive OSINT, breach analysis, and identity pivoting across 120+ breach sources.
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
  * [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and web application exploitation tool.
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
