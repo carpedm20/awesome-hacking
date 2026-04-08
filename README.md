@@ -82,6 +82,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
  * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
  * `docker pull phocean/msf` - [Docker Metasploit](https://hub.docker.com/r/phocean/msf/)
+ * `docker pull leogra/oss-oopssec-store` - [OopsSec Store](https://hub.docker.com/r/leogra/oss-oopssec-store)
 
 ## General
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
