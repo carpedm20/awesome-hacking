@@ -212,6 +212,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
+ * [AutoWIFI](https://github.com/momenbasel/AutoWIFI) - A wireless penetration testing framework that automates the full attack chain from recon to exploitation, supporting WEP, WPA/WPA2, and WPS with multiple cracking backends.
  * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
  * [Habu](https://github.com/portantier/habu) - Python Network Hacking Toolkit
  * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
