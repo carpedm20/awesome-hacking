@@ -53,6 +53,7 @@ For a list of free hacking books available for download, go [here](https://githu
     * Free, self-paced curriculum that builds a base of knowledge in computers and networking. Intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/).
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
  * [Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
+ * [TutorialSearch](https://tutorialsearch.io/browse/cybersecurity/ethical-hacking) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
  * [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
  * [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
