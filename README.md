@@ -222,7 +222,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Netz](https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
  * [RustScan](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
  * [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
- * [Alfa Arsenal](https://github.com/ardittirana/alfa-arsenal) - An 802.11 Wi-Fi security auditor for authorized testing, with WPA/WPA2 handshake and PMKID capture, WPS posture checks and reporting
+ * [Alfa Arsenal](https://github.com/ardittirana/alfa-arsenal) - An 802.11 Wi-Fi security auditor for authorized testing, with WPA/WPA2 handshake and PMKID capture, WPS posture checks and reporting.
 
 # Forensic
 
