@@ -233,6 +233,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
  * [CyLR](https://github.com/orlikoski/CyLR) - NTFS forensic image collector 
  * [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
+ * [chrdmp](https://github.com/asaix/chrdmp) - Decrypt Chrome profile data offline using the Chrome Safe Storage keyring secret.
 
 # Cryptography
 
