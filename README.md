@@ -233,6 +233,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [IPED - Indexador e Processador de Evidências Digitais](https://servicos.dpf.gov.br/ferramentas/IPED/) - Brazilian Federal Police Tool for Forensic Investigation
  * [CyLR](https://github.com/orlikoski/CyLR) - NTFS forensic image collector 
  * [CAINE](https://www.caine-live.net/)- CAINE is a Ubuntu-based app that offers a complete forensic environment that provides a graphical interface. This tool can be integrated into existing software tools as a module. It automatically extracts a timeline from RAM.
+ * [mozdmp](https://github.com/asaix/mozdmp) - Offline profile decryption tool for Mozilla Firefox. Supports multi-core CPU-based cracking of the master password and the latest Firefox hash formats, including those not yet supported by Hashcat and JTR.
 
 # Cryptography
 
