@@ -6,7 +6,6 @@ If you want to contribute to this list (please do), send me a pull request!
 
 For a list of free hacking books available for download, go [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
-
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
@@ -57,13 +56,14 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
  * [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
 
-
 ## Tools
+ * [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
  * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
 
 ### Docker Images for Penetration Testing & Security
+
  * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-last-release/)
  * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
  * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
@@ -85,7 +85,6 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## General
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
-
 
 # Reverse Engineering
 
@@ -129,7 +128,6 @@ For a list of free hacking books available for download, go [here](https://githu
 
 * Python
   * [uncompyle6](https://github.com/rocky/python-uncompyle6) - decompiler for the over 20 releases and 20 years of CPython.
-
 
 ### Deobfuscators
  * [de4dot](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker.
@@ -197,7 +195,6 @@ For a list of free hacking books available for download, go [here](https://githu
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
 
-
 # Network
 
 ## Tools
@@ -242,7 +239,6 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
  * [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
 
-
 # Wargame
 
 ## System
@@ -281,7 +277,6 @@ For a list of free hacking books available for download, go [here](https://githu
   * [Hackerone](https://www.hackerone.com/start-hacking)
   * [Intigriti](https://www.intigriti.com/) Europe's #1 ethical hacking and bug bounty program.
 
-
 # CTF
 
 ## Competition
@@ -319,7 +314,6 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
-
 
 # Post exploitation
 
