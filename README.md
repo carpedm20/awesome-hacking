@@ -186,6 +186,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [SubFinder](https://github.com/subfinder/subfinder) - SubFinder is a subdomain discovery tool that discovers valid subdomains for any target using passive online sources.
  * [Findsubdomains](https://findsubdomains.com/) - A subdomains discovery tool that collects all possible subdomains from open source internet and validates them through various tools to provide accurate results.
  * [badtouch](https://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker
+ * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source autonomous AI penetration testing platform and MCP host that orchestrates 80+ tools across web, API, Active Directory and Kubernetes with an evidence trail per finding.
  * [PhpSploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
  * [Git-Scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
  * [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
