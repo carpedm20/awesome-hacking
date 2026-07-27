@@ -311,6 +311,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
  * [Roppers CTF Fundamentals Course](https://www.roppers.org/courses/ctf) - Free course designed to get a student crushing CTFs as quickly as possible. Teaches the mentality and skills required for crypto, forensics, and more. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/).
+ * [HTB Writeups](https://github.com/momenbasel/htb-writeups) - A comprehensive collection of Hack The Box writeups covering machines, challenges, ProLabs, Sherlocks, and methodology guides for OSCP/CPTS prep.
 
 # OS
 
