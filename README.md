@@ -192,6 +192,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Shodan](https://www.shodan.io/) - A web-crawling search engine that lets users search for various types of servers connected to the internet.
  * [masscan](https://github.com/robertdavidgraham/masscan) - Internet scale portscanner.
  * [Keyscope](https://github.com/SpectralOps/keyscope) - an extensible key and secret validation tool for auditing active secrets against multiple SaaS vendors
+ * [keyFinder](https://github.com/momenbasel/keyFinder) - Chrome extension that passively discovers API keys, tokens, and secrets on the pages you visit
  * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
 
 ## General
