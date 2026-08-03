@@ -241,6 +241,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
  * [Ciphey](https://github.com/ciphey/ciphey) - Automated decryption tool using artificial intelligence & natural language processing.
+ * [Plunder](https://github.com/plunder-pentesttool/plunder) - A tool for scanning the local filesystem and directories for leaked clear text passwords and detecting credentials.
 
 
 # Wargame
