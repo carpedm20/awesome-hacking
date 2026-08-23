@@ -167,6 +167,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
  * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector)
  * [DarunGrim](https://github.com/ohjeongwook/DarunGrim) - executable differ.
+ * [fnprint](https://github.com/1rhino2/fnprint) - behavioral function fingerprinting and n-day patch-diffing by microexecution, x86-64 ELF.
  * [DBeaver](https://github.com/dbeaver/dbeaver) - a DB editor.
  * [Dependencies](https://github.com/lucasg/Dependencies) - a FOSS replacement to Dependency Walker.
  * [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
