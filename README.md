@@ -275,6 +275,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
+ * [UpClaw](https://github.com/okdkebm/UpClaw) - AI-driven bug-bounty & pentest CLI; single-file zero-dependency Python (29 checks + 16 tools + evidence reports).
 
 ## Bug bounty -  Earn Some Money
   * [Bugcrowd](https://www.bugcrowd.com/)
