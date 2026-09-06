@@ -105,6 +105,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
  * [Capstone](https://github.com/aquynh/capstone)
  * [Ghidra](https://ghidra-sre.org/) - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+ * [Rewind](https://github.com/hrinkar01/rewind) - Zero-dependency time-travel debugger with sub-microsecond state diffing and in-browser hot-patching.
 
 ### Decompilers
 *  JVM-based languages
