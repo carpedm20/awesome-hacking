@@ -209,7 +209,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [ASlookup](https://aslookup.com/) - a useful tool for exploring autonomous systems and all related info (CIDR, ASN, Org...)
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
- * [ssh-mitm](https://github.com/jtesta/ssh-mitm) - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
+ * [ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - man in the middle tool for SSH sessions, intercepts interactive sessions and file transfers, supports subsystems like PowerShell remoting and NETCONF.
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Nipe](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway.
