@@ -163,6 +163,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 #### Other
  * [Binwalk](https://github.com/ReFirmLabs/binwalk) -  Detects signatures, unpacks archives, visualizes entropy.
+ * [EntropyStrip](https://github.com/dwexi/entropystrip) - Algorithmic PE de-obfuscator, Shannon entropy radar, and incident triage engine.
  * [Veles](https://github.com/codilime/veles) - a visualizer for statistical properties of blobs.
  * [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct) - a DSL for creating parsers in a variety of programming languages. The Web IDE is particularly useful for reverse-engineering.
  * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector)
