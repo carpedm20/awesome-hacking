@@ -222,6 +222,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Netz](https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
  * [RustScan](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
  * [PETEP](https://github.com/Warxim/petep) - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
+ * [WPAForge](https://github.com/wlmosv-png/wpaforge) - Android WPA/WPA2 audit tool: derives candidate passphrases from the target SSID/BSSID, verifies each one with a real association attempt, and reports success only on a completed 4-Way Handshake. Root required.
 
 # Forensic
 
