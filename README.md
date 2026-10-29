@@ -326,6 +326,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## tools
 * [empire](https://github.com/EmpireProject/Empire) - A post exploitation framework for powershell and python.
 * [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - A post exploitation tool that uses iron python to get past powershell restrictions.
+* [Control Pack](https://www.exploitpack.com/products/control-pack) - Commercial multi-agent C2 for payload generation, endpoint sessions, remote tasking, interactive access, file handling, post-exploitation, and SOCKS5 reverse tunneling.
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell post exploitation framework
 * [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
