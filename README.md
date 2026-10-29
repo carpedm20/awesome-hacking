@@ -60,6 +60,7 @@ For a list of free hacking books available for download, go [here](https://githu
 
 ## Tools
  * [Metasploit](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+ * [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) - Commercial Windows C2 with an integrated kernel agent and exploit backends for kernel-level operations.
  * [mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
  * [Hackers tools](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv) - Tutorial on tools.
 
