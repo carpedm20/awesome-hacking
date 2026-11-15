@@ -263,6 +263,7 @@ For a list of free hacking books available for download, go [here](https://githu
 ## Web
  * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
  * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
+ * [WebVerse Labs](https://webverselabs-pro.com) - Web application hacking labs, single-vulnerability challenges, and multi-site ranges with chained, multi-stage vulnerabilities.
  * [Webhacking.kr](http://webhacking.kr/)
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
  * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
