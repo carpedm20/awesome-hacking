@@ -261,14 +261,22 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Crackmes.de](http://crackmes.de/) - The world first and largest community website for crackmes and reversemes.
 
 ## Web
- * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
- * [Hack The Box](https://www.hackthebox.eu) - a free site to perform pentesting in a variety of different systems.
- * [Webhacking.kr](http://webhacking.kr/)
- * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
- * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
- * [Gruyere](https://google-gruyere.appspot.com/)
- * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
- * [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
+* [webverse](https://webverselabs-pro.com/) - realistic web hacking labs focused on vulnerability discovery and exploit chaining.
+* [portswigger web security academy](https://portswigger.net/web-security) - free web security training and interactive labs by portswigger.
+* [root-me](https://www.root-me.org/) - hacking challenges covering web, network, crypto, reverse engineering and more.
+* [tryhackme](https://tryhackme.com/) - hands-on cybersecurity training through guided rooms and challenges.
+* [hack the box](https://www.hackthebox.com/) - a platform for practicing penetration testing on vulnerable machines and challenges.
+* [pentesterlab](https://pentesterlab.com/) - web application security exercises and practical penetration testing labs.
+* [owasp juice shop](https://owasp.org/www-project-juice-shop/) - an intentionally vulnerable web application for security testing and training.
+* [picoctf](https://picoctf.org/) - beginner-friendly CTF challenges covering different areas of computer security.
+* [overthewire](https://overthewire.org/wargames/) - wargames designed to teach Linux, networking and security concepts.
+* [hack this site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their skills.
+* [offsec proving grounds](https://www.offsec.com/labs/proving-grounds/) - practice penetration testing on vulnerable machines.
+* [webhacking.kr](http://webhacking.kr/) - web hacking challenges.
+* [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password riddles also called hackits.
+* [fuzzy.land](https://fuzzy.land/) - a website by an Austrian group featuring challenges taken from CTFs they participated in.
+* [google gruyere](https://google-gruyere.appspot.com/) - an intentionally vulnerable web application for learning web security.
+* [owasp vulnerable web applications directory](https://owasp.org/www-project-vulnerable-web-applications-directory/) - a collection of vulnerable applications for security testing and practice.
 
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
